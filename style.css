@@ -1,0 +1,12 @@
+body.dark-mode {
+    background-color: #333; 
+    color: #f0f0f0; 
+}
+
+.rounded-rectangle {
+    background-color: #555; 
+    color: #f0f0f0; 
+    border-radius: 20px;
+    padding: 20px; 
+    width: 300px; 
+}
